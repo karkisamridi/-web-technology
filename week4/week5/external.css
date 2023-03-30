@@ -1,0 +1,24 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background:linear-gradient(black,red,green,pink);
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: brown;
+    color: aqua;
+    font-size:60px;
+}
+ #p1{
+    background-color: aqua;
+    color: blue;
+    font-size: medium;
+}
+#p2
+ img{
+    width: 1200px;
+    height:1200px;
+ }
+
+    

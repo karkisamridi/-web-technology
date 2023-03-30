@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Name</title>
+</head>
+<h1>TASK 1</h1>
+<body>
+    <table border="10">
+        <tr>
+            <th>Student information</th>
+            <th>S.no</th>
+            <th>Student Name</th>
+            <th>Class group</th>
+            <th>Gender</th>
+        </tr>
+        <tr>
+            <td></td>
+            <td>1.</td>
+            <td>Ram Shrestha</td>
+            <td>Group 4</td>
+            <td>Male</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>2.</td>
+            <td>Shyam Basnet</td>
+            <td>Group 6</td>
+            <td>Male</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>3.</td>
+            <td>Sita Rai</td>
+            <td>Group 5</td>
+            <td>Female</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>4.</td>
+            <td>Gauri Thapa</td>
+            <td>Group 2</td>
+            <td>Female</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>5.</td>
+            <td>Radha Shrestha</td>
+            <td>Group 3</td>
+            <td>Female</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>6.</td>
+            <td>kevin Rajbhandari</td>
+            <td>Group 4</td>
+            <td>Male</td>
+        </tr>
+         <tr>
+            <td></td>
+            <td>7.</td>
+            <td>Sami Gautam</td>
+         </tr>
+         <tr>
+            <td></td>
+            <td>7.</td>
+            <td>Shiv Yadav </td>
+         </tr> 
+         <tr>
+            <td></td>
+            <td>8.</td>
+            <td>Yamu gurung</td>
+         </tr> 
+    </table>    

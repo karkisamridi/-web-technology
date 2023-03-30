@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>signup</title>
+</head>
+<body>
+    <section>
+        <h2>User Registration Page</h2>
+        <form>
+            <label>Enter your full name:</label></form><br>
+            <input type="text"><br>
+
+            <label>Enter your email:</label><br>
+            <input type="text" ><br>
+
+            <label>Enter your password:</label><br>
+            <input type="password" > <br>
+
+            <label>Retype your password:</label><br>
+            <input type="password"> <br><br>
+
+            <label>Select your gender:</label><br>
+            <input type="radio">Male<br><br>
+            <input type="radio">Female<br><br>
+            <input type="radio">Others<br><br>
+    
+            <label>Enter your address:</label><br>
+            <input type="text" > <br>
+
+            <label>Enter your bio:</label><br>
+            <input type="text" required placeholder="Enter your bio here..." style="height: 30px;"> <br><br><br>
+            
+            <button>Sign-Up</button>
+            
+
+        </form>
+    </section>
+</body>
+</html>
